@@ -13,7 +13,7 @@ header {
     height: 125px;
     background-color:rgb(145, 100, 78);
     padding-top: 20px;
-    border: 10px inset rgb(145,100,78);
+    border: 10px solid rgb(84, 56, 42);
     border-radius: 50%;
     text-align: center;
         background-image: url('https://free4kwallpapers.com/uploads/originals/2019/04/08/morning-coffee-wallpaper.jpg');
@@ -62,7 +62,7 @@ h1:hover {
     /* border: 2px solid yellow; */
 }
 .sticky-logo{
-    margin-left: 1500px;
+    margin-left: 1155px;
     position:sticky;
     top:300px;
     font-size: 50px;
@@ -88,7 +88,7 @@ h1:hover {
     height: 300px;
     border: 2px solid white;
     border-radius: 20px;
-    margin-left: 488px;
+    margin-left: 300px;
     padding: 20px;
     text-align: justify;
 }
@@ -112,7 +112,9 @@ a:hover {
 .type-bg-img{
     /* background-image: url('https://static.vecteezy.com/system/resources/previews/004/684/788/original/black-and-white-coffee-shop-background-eps-free-vector.jpg'); */
     /* background-image: url('https://img.freepik.com/free-vector/coffee-cup-white-marble-background_53876-100730.jpg?w=2000'); */
-    background-image: url('https://c1.wallpaperflare.com/preview/890/906/375/coffee-table-wood-background.jpg');
+    /* background-image: url('https://c1.wallpaperflare.com/preview/890/906/375/coffee-table-wood-background.jpg'); */
+    /* background-image: url('http://www.pptgrounds.com/wp-content/uploads/2013/01/Coffee-Brown-Powerpoint.jpg'); */
+    background-image: url('https://www.homegrounds.co/wp-content/uploads/2019/08/What-is-White-Coffee.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     opacity:.6;
@@ -149,7 +151,7 @@ dt {
     height: 300px;
     /* border: 2px solid green; */
     border-radius: 20px;
-    margin-left: 488px;
+    margin-left: 310px;
     margin-top: 30px;
     text-align: justify;
     display: flex;
