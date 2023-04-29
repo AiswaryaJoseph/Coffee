@@ -22,7 +22,7 @@ header {
 }
 .header-tag{
     text-align: center;
-    background-color: rgb(145 100, 78);
+    background-color: rgb(145, 100, 78);
     position: sticky;
     top: 0px;
     z-index:1;
