@@ -85,11 +85,12 @@ h1:hover {
 
 /* box */
 .main-sub1 {
+    display:block;
     width: 585px;
+    margin: auto;
     height: 300px;
     border: 2px solid white;
     border-radius: 20px;
-    margin-left: 300px;
     padding: 20px;
     text-align: justify;
 }
@@ -339,7 +340,6 @@ header {
     
     width: 319px;
     height: 464px;
-    margin-left: 6px;
 }
 p{
     font-size: 18px;
@@ -443,7 +443,7 @@ textarea{
         flex-wrap: wrap;
     flex-direction: column;
     justify-content:flex-start;
-    height:560px;
+    height:336px;
     align-items:flex-start;
     background-color:rgb(40, 39, 39);
     /* border:2px solid red; */
@@ -454,9 +454,9 @@ textarea{
  .foot-logo{
     font-size: 50px;
     width:60px;
-    height:60px;
+    height:56px;
     padding:10px;
-    /* margin-right:122px; */
+    margin-right:122px;
     /* border:2px solid yellow; */
 }
 .f1{
@@ -572,5 +572,33 @@ textarea{
     width:340px;
     height:150px;
     border-radius: 10px;
+}
+/* footer */
+.footer{
+    flex-wrap: wrap;
+height:240px;
+background-color:rgb(40, 39, 39);
+/* border:2px solid red; */
+}
+.footer p{
+    font-size: medium;
+}
+ .foot-logo{
+    font-size: 120px;
+    width:60px;
+    padding:10px;
+    /* border:2px solid yellow; */
+}
+.f1{
+    display: block;
+    margin: 10px;
+    font-size:30px;
+    margin: auto;
+}
+.contact{
+    margin-top: 0px;
+}
+.address{
+    margin-top: 40px;
 }
 }
